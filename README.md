@@ -27,14 +27,14 @@ This Power BI dashboard is designed to analyze software sales performance across
 
 # 📊 Dashboard Visuals:
 
-<img width="603" height="338" alt="image" src="https://github.com/user-attachments/assets/9c4ba90c-5889-473b-ade8-8fd78bf6a039" />
+<img width="599" height="338" alt="Software_Sales_Persormance" src="https://github.com/user-attachments/assets/91eb71a4-1ecb-45f0-8162-ceddf7a32c52" />
 
 
 
 
 ---
 
-<img width="578" height="326" alt="All transaction" src="https://github.com/user-attachments/assets/fc34c44c-e3b4-4464-9b8c-31705f67472a" />
+<img width="603" height="338" alt="image" src="https://github.com/user-attachments/assets/9c4ba90c-5889-473b-ade8-8fd78bf6a039" />
 
 
 
