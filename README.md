@@ -5,6 +5,13 @@
 
 This Power BI dashboard is designed to analyze software sales performance across multiple regions, products, and customer types. It helps identify key trends in revenue, profit, and licenses sold to support strategic business decisions.It enables data-driven decisions for improving business growth.
 
+This project transforms software sales data into a professional Power BI dashboard with:
+
+- ✔️ ETL in Power Query
+- ✔️ DAX-based KPIs (Revenue, Profit, Licenses Sold)
+- ✔️ Advanced visuals & filters
+- ✔️ Modern clean UI
+- ✔️ Multi-page interactive report
 ---
 
 # 🎯 Objectives:
@@ -23,8 +30,9 @@ This Power BI dashboard is designed to analyze software sales performance across
 
 - 📅 Monitor sales over Time using calendar analysis.
 
----
 
+ ---
+  
 # 📊 Dashboard Visuals:
 
 <img width="599" height="338" alt="Software_Sales_Persormance" src="https://github.com/user-attachments/assets/91eb71a4-1ecb-45f0-8162-ceddf7a32c52" />
@@ -65,4 +73,14 @@ This Power BI dashboard is designed to analyze software sales performance across
 
 ---
 
+# 🧰 Tools Used:
 
+- 📊 Power BI Desktop – Data modeling & dashboard creation 
+
+- 🔄 Power Query – ETL (Extract, Transform, Load) 
+
+- � DAX (Data Analysis Expressions) – Calculated measures & KPIs 
+
+- 📂 Excel/CSV Data Source – Raw software sales data 
+
+---
