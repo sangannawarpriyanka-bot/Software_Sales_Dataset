@@ -3,7 +3,7 @@
 
 # 📝 Project Overview:
 
-This Power BI dashboard is designed to analyze software sales performance across multiple regions, products, and customer types. It helps identify key trends in revenue, profit, and licenses sold to support strategic business decisions.
+This Power BI dashboard is designed to analyze software sales performance across multiple regions, products, and customer types. It helps identify key trends in revenue, profit, and licenses sold to support strategic business decisions.It enables data-driven decisions for improving business growth.
 
 ---
 
@@ -40,7 +40,7 @@ This Power BI dashboard is designed to analyze software sales performance across
 
 
 ---
-# 📌 Insights Highlights:
+# 📌 Insights:
 
 - 💹 Revenue shows strong growth in top performing regions
 
@@ -65,4 +65,4 @@ This Power BI dashboard is designed to analyze software sales performance across
 
 ---
 
-# 
+
