@@ -1,1 +1,53 @@
-# Software_Sales_Dataset
+## 📊 Software Sales Analysis Dashboard
+---
+
+# 📝 Project Overview:
+
+This Power BI dashboard is designed to analyze software sales performance across multiple regions, products, and customer types. It helps identify key trends in revenue, profit, and licenses sold to support strategic business decisions.
+
+---
+
+# 🎯 Objectives:
+
+- 📈 Track overall Revenue & Profit trends
+
+- 🌍 Compare Sales by Region & Country
+
+- 🏷️ Understand pricing & Unit Price impact
+
+- 👥 Analyze Customer Types behavior
+
+- 🧾 Review performance of different Product Versions
+
+- 🛒 Compare Sales Channels efficiency
+
+- 📅 Monitor sales over Time using calendar analysis.
+
+---
+
+# 📌 Insights Highlights:
+
+- 💹 Revenue shows strong growth in top performing regions
+
+- 🧑‍💼 Existing customers contribute majority of sales volume
+
+- 🛒 Online channels drive higher revenue vs. offline sales
+
+- 💻 Newer product versions generate higher profit margins
+
+- 🌍 Region-wise performance is uneven — indicating opportunity areas
+
+- 🏷️ High discount rate affects profit especially in low-priced products.
+
+  ---
+
+# 🏁 Project Outcome:
+
+- ✔ Improved visibility into global software sales
+- ✔ Identified high-performing sales channels & regions
+- ✔ Better decision-making using real-time insights
+- ✔ Understanding customer and product performance patterns.
+
+---
+
+# 
